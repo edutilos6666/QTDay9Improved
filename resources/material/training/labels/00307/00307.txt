@@ -1,0 +1,4 @@
+id=cfrS00307
+gender=Female
+yob=1984
+race=White

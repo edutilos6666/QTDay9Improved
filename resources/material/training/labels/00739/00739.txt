@@ -1,0 +1,4 @@
+id=cfrS00739
+gender=Male
+yob=1944
+race=Asian-Middle-Eastern

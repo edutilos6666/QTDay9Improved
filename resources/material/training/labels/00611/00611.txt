@@ -1,0 +1,4 @@
+id=cfrS00611
+gender=Male
+yob=1964
+race=Asian

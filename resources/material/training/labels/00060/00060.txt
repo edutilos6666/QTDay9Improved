@@ -1,0 +1,4 @@
+id=cfrS00060
+gender=Female
+yob=1973
+race=Asian

@@ -1,0 +1,4 @@
+id=cfrS00586
+gender=Male
+yob=1964
+race=Black-or-African-American

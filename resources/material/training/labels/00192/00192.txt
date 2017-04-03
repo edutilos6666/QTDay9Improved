@@ -1,0 +1,4 @@
+id=cfrS00192
+gender=Male
+yob=1964
+race=Asian

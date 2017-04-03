@@ -1,0 +1,4 @@
+id=cfrS00517
+gender=Male
+yob=1924
+race=White

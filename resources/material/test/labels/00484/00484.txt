@@ -1,0 +1,4 @@
+id=cfrS00484
+gender=Male
+yob=1954
+race=White

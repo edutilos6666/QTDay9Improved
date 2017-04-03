@@ -1,0 +1,4 @@
+id=cfrS00343
+gender=Female
+yob=1974
+race=Hispanic

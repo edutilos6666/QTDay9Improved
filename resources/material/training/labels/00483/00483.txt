@@ -1,0 +1,4 @@
+id=cfrS00483
+gender=Female
+yob=1934
+race=White

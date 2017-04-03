@@ -1,0 +1,4 @@
+id=cfrS00698
+gender=Male
+yob=1934
+race=Asian

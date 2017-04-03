@@ -1,0 +1,4 @@
+id=cfrS00720
+gender=Female
+yob=1964
+race=Black-or-African-American

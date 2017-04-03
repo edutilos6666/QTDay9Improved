@@ -1,0 +1,4 @@
+id=cfrS00549
+gender=Female
+yob=1944
+race=Hispanic

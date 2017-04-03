@@ -1,0 +1,4 @@
+id=cfrS00703
+gender=Female
+yob=1964
+race=White

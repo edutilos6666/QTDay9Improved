@@ -1,0 +1,4 @@
+id=cfrS00631
+gender=Female
+yob=1974
+race=Asian

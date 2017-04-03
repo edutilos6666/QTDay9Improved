@@ -1,0 +1,4 @@
+id=cfrS00576
+gender=Female
+yob=1964
+race=Hispanic

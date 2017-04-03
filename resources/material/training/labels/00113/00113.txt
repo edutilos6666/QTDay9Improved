@@ -1,0 +1,4 @@
+id=cfrS00113
+gender=Male
+yob=1973
+race=White

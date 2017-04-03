@@ -1,0 +1,4 @@
+id=cfrS00003
+gender=Male
+yob=1963
+race=Black-or-African-American

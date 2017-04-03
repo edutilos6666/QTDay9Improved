@@ -1,0 +1,4 @@
+id=cfrS00332
+gender=Male
+yob=1974
+race=Black-or-African-American

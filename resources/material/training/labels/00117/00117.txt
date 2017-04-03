@@ -1,0 +1,4 @@
+id=cfrS00117
+gender=Male
+yob=1973
+race=Asian

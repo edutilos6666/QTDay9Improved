@@ -1,0 +1,4 @@
+id=cfrS00714
+gender=Male
+yob=1934
+race=White

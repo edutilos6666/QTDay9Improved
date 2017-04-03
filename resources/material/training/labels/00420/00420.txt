@@ -1,0 +1,4 @@
+id=cfrS00420
+gender=Female
+yob=1974
+race=White

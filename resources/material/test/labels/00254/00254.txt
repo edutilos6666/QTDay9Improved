@@ -1,0 +1,4 @@
+id=cfrS00254
+gender=Female
+yob=1974
+race=Native-American

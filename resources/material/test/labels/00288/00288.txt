@@ -1,0 +1,4 @@
+id=cfrS00288
+gender=Female
+yob=1964
+race=Asian

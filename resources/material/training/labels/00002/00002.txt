@@ -1,0 +1,4 @@
+id=cfrS00002
+gender=Male
+yob=1963
+race=White

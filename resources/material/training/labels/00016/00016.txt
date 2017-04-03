@@ -1,0 +1,4 @@
+id=cfrS00016
+gender=Male
+yob=1963
+race=Pacific-Islander

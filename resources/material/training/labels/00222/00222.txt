@@ -1,0 +1,4 @@
+id=cfrS00222
+gender=Male
+yob=1974
+race=White
